@@ -1,4 +1,5 @@
 #Quiz App 
+
 🔹 Description: A dynamic quiz application that fetches questions from the OpenTDB API. 
 
 🔹 Tech Stack: React, Tailwind CSS, OpenTDB API 
