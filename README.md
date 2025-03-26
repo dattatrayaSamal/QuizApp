@@ -1,7 +1,5 @@
 # Quiz App
 
-<p>The Quiz App is a dynamic quiz application that fetches trivia questions from the <strong>OpenTDB API</strong>. Users can select quiz categories and difficulty levels, answer multiple-choice questions, and track their scores.</p>
-
 <h2>✨ Features</h2>
 <ul>
     <li><strong>Category & Difficulty Selection:</strong> Customize your quiz experience.</li>
